@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "cnpj": "60.701.190/0001-04",
+      "name": "ITAU UNIBANCO S.A.",
+      "city": "São Paulo",
+      "state": "SP",
+      "id": 2
+    },
+    {
+      "cnpj": "40.432.544/0001-47",
+      "name": "CLARO S.A.",
+      "city": "São Paulo",
+      "state": "SP",
+      "id": 3
+    },
+    {
+      "cnpj": "27.865.757/0001-02",
+      "name": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "id": 4
+    },
+    {
+      "cnpj": "60.746.948/0001-12",
+      "name": "BANCO BRADESCO S.A.",
+      "city": "Osasco",
+      "state": "SP",
+      "id": 5
+    }
+  ]
+}
